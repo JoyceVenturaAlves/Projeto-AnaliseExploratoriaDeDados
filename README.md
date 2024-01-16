@@ -1,8 +1,8 @@
-# Projeto 2 
-## Análise exploratória de dados
+# Projeto análise exploratória de dados 
+
 Projeto 2 do curso fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Básico, com foco em criar uma analise exploratória de dados, usando uma extensa lista de bibliotecas como Seaborn e Matplotlib.
 
-### Manual de instalação pelo git
+## Manual de instalação pelo git
 Obs: Antes de tudo é importante você possuir o anaconda instalado no seu sistema para poder abrir o projeto no jupyter notebook, ou se preferir você pode abrir o projeto pelo vscode.</br>
 </br>
 1 - Crie uma pasta;</br>
